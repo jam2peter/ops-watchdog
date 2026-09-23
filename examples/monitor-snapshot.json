@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "ops-monitor-snapshot",
+  "generated_at": "2026-09-23T12:00:00Z",
+  "overall_status": "PASS",
+  "systems": [
+    {
+      "id": "runtime-availability",
+      "name": "Runtime availability",
+      "status": "PASS"
+    }
+  ]
+}
